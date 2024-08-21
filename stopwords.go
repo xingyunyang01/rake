@@ -253,7 +253,6 @@ var StopWordsSlice = []string{
 	"look",
 	"looking",
 	"looks",
-	"ltd",
 	"mainly",
 	"many",
 	"may",
@@ -527,4 +526,6 @@ var StopWordsSlice = []string{
 	"settings",
 	"entries",
 	"length",
+	"designation",
+	"code",
 }
