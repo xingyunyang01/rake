@@ -522,7 +522,6 @@ var StopWordsSlice = []string{
 	"length",
 	"designation",
 	"code",
-	"integration",
 	"single",
 	"sign-on",
 }
